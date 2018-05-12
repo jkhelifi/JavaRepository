@@ -1,4 +1,4 @@
-package com.tunisianDeveloper.firstalgo;
+package com.tunisianDeveloper.recursionalgo;
 
 import java.util.Scanner;
 

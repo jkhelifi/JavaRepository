@@ -5,4 +5,4 @@
  * @author djoHunter
  *
  */
-package com.tunisianDeveloper.firstalgo;
+package com.tunisianDeveloper.recursionalgo;
